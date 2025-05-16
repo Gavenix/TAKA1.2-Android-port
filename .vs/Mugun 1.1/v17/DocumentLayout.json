@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity proj\\Mugun 1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\weaponslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\weaponslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\gunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\weapon\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\weapon\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|e:\\unity proj\\mugun 1.1\\assets\\scripts\\firebattonholdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebattonholdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\shoptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\shoptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\shopfolder\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shopfolder\\shopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\dashskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dashskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\scripts\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\ui\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\weapon\\targethighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\weapon\\targethighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|E:\\Unity proj\\Mugun 1.1\\assets\\resources\\fontpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F5527-C9A7-27A8-A002-ED9BD650E945}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\fontpulse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FireBattonHoldHandler.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\FireBattonHoldHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireBattonHoldHandler.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\FireBattonHoldHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireBattonHoldHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:26:27.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpgradeManager.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\UpgradeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpgradeManager.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\UpgradeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpgradeManager.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:13:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GunManager.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\GunManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunManager.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\GunManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunManager.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwIwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:34:26.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponSlot.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\WeaponSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\WeaponSlot.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\WeaponSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\WeaponSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:56:56.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopItemUI.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\ShopItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\ShopItemUI.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\ShopItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\ShopItemUI.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:13:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\ShopManager.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\ShopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\ShopManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:07:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TargetHighlighter.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Weapon\\TargetHighlighter.cs",
+              "RelativeDocumentMoniker": "Assets\\Weapon\\TargetHighlighter.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Weapon\\TargetHighlighter.cs",
+              "RelativeToolTip": "Assets\\Weapon\\TargetHighlighter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:41:30.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FontPulse.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Resources\\FontPulse.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\FontPulse.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Resources\\FontPulse.cs",
+              "RelativeToolTip": "Assets\\Resources\\FontPulse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:15:12.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\UI\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\HealthManager.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\UI\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\UI\\HealthManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:08:02.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:50:00.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUN.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Weapon\\GUN.cs",
+              "RelativeDocumentMoniker": "Assets\\Weapon\\GUN.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Weapon\\GUN.cs",
+              "RelativeToolTip": "Assets\\Weapon\\GUN.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:08:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\InventorySlot.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\InventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:04:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\WeaponData.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\WeaponData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:10:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwE8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:39:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shoptrigger.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\Shoptrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\Shoptrigger.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\Shoptrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\Shoptrigger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:23:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashSkill.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\DashSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DashSkill.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\DashSkill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DashSkill.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:13:58.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopFolder\\PlayerInventory.cs",
+              "ToolTip": "E:\\Unity proj\\Mugun 1.1\\Assets\\Scripts\\ShopFolder\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopFolder\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:23:12.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
